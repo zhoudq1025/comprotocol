@@ -1,0 +1,41 @@
+.\objects\can1.o: ..\HARDWARE\CAN\can1.c
+.\objects\can1.o: ..\HARDWARE\CAN\can1.h
+.\objects\can1.o: ..\User\main.h
+.\objects\can1.o: ..\Libraries\CMSIS\stm32f10x.h
+.\objects\can1.o: ..\Libraries\CMSIS\core_cm3.h
+.\objects\can1.o: E:\Program Files (x86)\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\can1.o: ..\Libraries\CMSIS\system_stm32f10x.h
+.\objects\can1.o: ..\User\stm32f10x_conf.h
+.\objects\can1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_adc.h
+.\objects\can1.o: ..\Libraries\CMSIS\stm32f10x.h
+.\objects\can1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_bkp.h
+.\objects\can1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_can.h
+.\objects\can1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_cec.h
+.\objects\can1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_crc.h
+.\objects\can1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dac.h
+.\objects\can1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dbgmcu.h
+.\objects\can1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_dma.h
+.\objects\can1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_exti.h
+.\objects\can1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_flash.h
+.\objects\can1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_fsmc.h
+.\objects\can1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_gpio.h
+.\objects\can1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_i2c.h
+.\objects\can1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_iwdg.h
+.\objects\can1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_pwr.h
+.\objects\can1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rcc.h
+.\objects\can1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_rtc.h
+.\objects\can1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_sdio.h
+.\objects\can1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_spi.h
+.\objects\can1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_tim.h
+.\objects\can1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_usart.h
+.\objects\can1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\stm32f10x_wwdg.h
+.\objects\can1.o: ..\Libraries\STM32F10x_StdPeriph_Driver\inc\misc.h
+.\objects\can1.o: ..\HARDWARE\LED\led.h
+.\objects\can1.o: ..\User\main.h
+.\objects\can1.o: ..\SYSTEM\DELAY\delay.h
+.\objects\can1.o: E:\Program Files (x86)\Keil_v5\ARM\ARMCC\Bin\..\include\string.h
+.\objects\can1.o: ..\SYSTEM\USART\usart.h
+.\objects\can1.o: ..\SYSTEM\SYS\sys.h
+.\objects\can1.o: E:\Program Files (x86)\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\can1.o: ..\HARDWARE\KEY\key.h
+.\objects\can1.o: ..\HARDWARE\CAN\can1.h
